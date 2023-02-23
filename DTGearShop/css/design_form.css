@@ -1,0 +1,104 @@
+/* CSS Document */
+.frmDangKy
+{
+	width:500px;
+	margin:0 auto;
+}
+
+.frmDangKy form
+{
+	border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+
+.frmDangKy form div
+{
+	width:70%;
+	margin:10px auto;
+}
+
+.frmDangKy form div input
+{
+	background-color:#FFF;
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+#btn input[type=submit]
+{
+	width:95px;
+	margin-left:5px;
+	background-color:#000;
+	cursor: pointer;
+	color:#FFF;
+	text-align:center; 
+	padding-left: 15px;
+}
+
+#btn input[type=submit]:hover 
+{
+    background-color:#333;
+	color:#FFF;
+}
+
+#btn input[type=button]
+{
+	width:95px;
+	margin-left:5px;
+	background-color:#000;
+	cursor: pointer;
+	color:#FFF;
+}
+
+#btn input[type=button]:hover /*đinh dang cho the input có type la button nam trong id btn*/
+{
+    background-color:#333;
+	color:#FFF;
+}
+
+#txt-search
+{ 
+	border-radius:5px; 
+	border: 1px solid #ccc;
+	padding: 7px 10px;
+}
+
+#btn-search
+{
+	display: inline-block;
+    border: 1px solid #ccc;
+	border-radius:5px; 
+	height:30px;
+	width:70px;  
+	background-color:#000;
+	color: white;
+}
+
+#btn-search:hover
+{
+	background-color:#333;
+	color:#FFF;
+}
+
+#div-capcha
+{
+	width:322px;
+	height:50px;
+	background-image:url(../img/layout/bg.jpg);
+	font-size: 38px;
+	color: white;
+	text-align: center;
+	font-style: italic;
+}
+
+
+
+
+
+

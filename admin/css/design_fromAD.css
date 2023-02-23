@@ -1,0 +1,113 @@
+@charset "utf-8";
+/* CSS Document */
+/* CSS Document */
+/* CSS Document */
+.frmDangKy
+{
+	width:500px;
+	margin:0 auto;
+}
+
+.frmDangKy form
+{
+	border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+
+.frmDangKy form div
+{
+	width:70%;
+	margin:10px auto;
+}
+
+.frmDangKy form div input, select
+{
+	background-color:#FFF;
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+#txtMoTa
+{
+	resize:vertical;
+	background-color:#FFF;
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.btn input[type=submit]
+{
+	width:125px;
+	margin-left:5px;
+	background-color:#000;
+	cursor: pointer;
+	color:#FFF;
+	text-align:center; 
+	padding-left: 15px;
+}
+
+.btn input[type=submit]:hover 
+{
+    background-color:#333;
+	color:#FFF;
+}
+
+.txt
+{ 
+	border-radius:5px; 
+	border: 1px solid #ccc;
+	padding: 7px 10px;
+	height: 2	0px;
+}
+
+.btn
+{
+	display: inline-block;
+    border: 1px solid #ccc;
+	border-radius:5px; 
+	height:40px;
+	width:70px;  
+	background-color:#000;
+	color: white;
+}
+
+.btn:hover
+{
+	background-color:#333;
+	color:#FFF;
+}
+
+.slsapxep{
+	width: 200px;
+	height: 40px;
+	background-color:#000;
+	color: white;
+}
+
+#div-capcha
+{
+	width:322px;
+	height:50px;
+	background-color:#06F;
+}
+
+
+
+
+
+
+
+
+
+
